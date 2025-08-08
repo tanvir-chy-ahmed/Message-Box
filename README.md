@@ -55,7 +55,7 @@ The app continuously reads incoming SMS and checks if the content contains any o
 ### Clone the repo
 
 ```bash
-git clone https://github.com/your-username/sms-filter-app.git
+git clone https://github.com/tanvir-chy-ahmed/Message-Box.git
 ```
 
 ### Run the project
@@ -68,7 +68,6 @@ git clone https://github.com/your-username/sms-filter-app.git
 
 ## 📸 Screenshots
 
-*(Add screenshots of your app UI here)*
 
 ---
 
@@ -86,7 +85,7 @@ Pull requests are welcome! If you have ideas for improvements or want to report 
 
 ## 📬 Contact
 
-Made with ❤️ by [Your Name]  
-📧 Email: your-email@example.com  
-🌐 GitHub: [your-username](https://github.com/your-username)
+Made with ❤️ by Tanvir ahmed (chy)  
+📧 Email: tanvirchy269@gmail.com
+🌐 GitHub: https://github.com/tanvir-chy-ahmed
 
